@@ -1,6 +1,9 @@
 # Algos
 
-**TODO: Add description**
+## Description
+
+In preparation of algo based technical interviews, I created a separate project
+for practice implementing solutions written in Elixir.
 
 ## Installation
 
@@ -18,4 +21,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/algos](https://hexdocs.pm/algos).
-
